@@ -1,0 +1,104 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=xl24 width=64 ><b>S.No</b></td><td class=xl24 width=64 ><b>Credit Note Number</b></td><td class=xl24 width=64 ><b>Invoice Number</b></td><td class=xl24 width=64 ><b>Project Number</b></td><td class=xl24 width=64 ><b>Invoice Amount</b></td><td class=xl24 width=64 ><b>Credit Note Amount</b></td><td class=xl24 width=64 ><b>Credit Note Date</b></td><td class=xl24 width=64 ><b>Narration</b></td></tr><tr><td class=xl24 width=64 >1</td><td class=xl24 width=64 >CN17181</td><td class=xl24 width=64 >C17188029C11</td><td class=xl24 width=64 >RB1617ASE005RIPLRVEL</td><td class=xl24 width=64 >508875</td><td class=xl24 width=64 >431250</td><td class=xl24 width=64 >28/10/2017</td><td class=xl24 width=64 >Billing Address Changed</td></tr><tr><td class=xl24 width=64 >2</td><td class=xl24 width=64 >CN17182</td><td class=xl24 width=64 >C17188029C13</td><td class=xl24 width=64 >RB1617ASE003RELARVEL</td><td class=xl24 width=64 >508875</td><td class=xl24 width=64 >431250</td><td class=xl24 width=64 >28/10/2017</td><td class=xl24 width=64 >Billing Address Changed</td></tr><tr><td class=xl24 width=64 >3</td><td class=xl24 width=64 >CN17183</td><td class=xl24 width=64 >C17188655C14</td><td class=xl24 width=64 >RB1617MEE002RELASATH</td><td class=xl24 width=64 >377517</td><td class=xl24 width=64 >319930</td><td class=xl24 width=64 >28/10/2017</td><td class=xl24 width=64 >Billing address Changed</td></tr><tr><td class=xl24 width=64 >4</td><td class=xl24 width=64 >CN17184</td><td class=xl24 width=64 >C17188275C353</td><td class=xl24 width=64 >IC1617MET001AAAARAVK</td><td class=xl24 width=64 >276120</td><td class=xl24 width=64 >234000</td><td class=xl24 width=64 >28/10/2017</td><td class=xl24 width=64 >Project was Completed on 15th Nov 2017</td></tr><tr><td class=xl24 width=64 >5</td><td class=xl24 width=64 >CN17185</td><td class=xl24 width=64 >C17182399C347</td><td class=xl24 width=64 >ET1718ELE001AAAADEVE</td><td class=xl24 width=64 >236000</td><td class=xl24 width=64 >200000</td><td class=xl24 width=64 >28/10/2017</td><td class=xl24 width=64 >Services Not Provided</td></tr><tr><td class=xl24 width=64 >6</td><td class=xl24 width=64 >CN17186</td><td class=xl24 width=64 >C17188554C283</td><td class=xl24 width=64 >IC1718CIE074LTCWVENU</td><td class=xl24 width=64 >212400</td><td class=xl24 width=64 >180000</td><td class=xl24 width=64 >28/10/2017</td><td class=xl24 width=64 >Change of Place of Supply from Tamil Nadu to Madhyapradesh</td></tr><tr><td class=xl24 width=64 >7</td><td class=xl24 width=64 >CN17187</td><td class=xl24 width=64 >C17188121C274</td><td class=xl24 width=64 >RB1617CIE002CWCXKPSU</td><td class=xl24 width=64 >2565792</td><td class=xl24 width=64 >2174400</td><td class=xl24 width=64 >21/11/2017</td><td class=xl24 width=64 >Invoice Amount Modified</td></tr><tr><td class=xl24 width=64 >8</td><td class=xl24 width=64 >CN17188</td><td class=xl24 width=64 >C17188204C39</td><td class=xl24 width=64 >IC1718CIE016LTCWINDU</td><td class=xl24 width=64 >132750</td><td class=xl24 width=64 >112500</td><td class=xl24 width=64 >27/11/2017</td><td class=xl24 width=64 >Change of Place of Supply</td></tr><tr><td class=xl24 width=64 >9</td><td class=xl24 width=64 >CN17189</td><td class=xl24 width=64 >C17188551C1</td><td class=xl24 width=64 >IC1516CHE002AAAARVIN</td><td class=xl24 width=64 >11800</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >27/11/2017</td><td class=xl24 width=64 >Services not performed</td></tr><tr><td class=xl24 width=64 >10</td><td class=xl24 width=64 >CN171810</td><td class=xl24 width=64 >C17188397C6</td><td class=xl24 width=64 >RB1718EDD001SIEIPALN</td><td class=xl24 width=64 >1805647</td><td class=xl24 width=64 >1530209</td><td class=xl24 width=64 >27/11/2017</td><td class=xl24 width=64 >Invoice was raised by mistake</td></tr><tr><td class=xl24 width=64 >11</td><td class=xl24 width=64 >CN171811</td><td class=xl24 width=64 >C17183106C85</td><td class=xl24 width=64 >IC1617OEC064VISARSUN</td><td class=xl24 width=64 >524444</td><td class=xl24 width=64 >444444</td><td class=xl24 width=64 >28/11/2017</td><td class=xl24 width=64 >Invoice Amount Modified </td></tr><tr><td class=xl24 width=64 >12</td><td class=xl24 width=64 >CN171812</td><td class=xl24 width=64 >C17185032C433</td><td class=xl24 width=64 >RB1415MEE008RELAKRIS</td><td class=xl24 width=64 >1200000</td><td class=xl24 width=64 >1200000</td><td class=xl24 width=64 >19/12/2017</td><td class=xl24 width=64 >Defects in the Invoice</td></tr><tr><td class=xl24 width=64 >13</td><td class=xl24 width=64 >CN171813</td><td class=xl24 width=64 >C17185032C765</td><td class=xl24 width=64 >IC1718ICS003GRANDEAN</td><td class=xl24 width=64 >737500</td><td class=xl24 width=64 >625000</td><td class=xl24 width=64 >28/12/2017</td><td class=xl24 width=64 >Defects in the Invoice</td></tr><tr><td class=xl24 width=64 >14</td><td class=xl24 width=64 >CN171814</td><td class=xl24 width=64 >C17188181C423</td><td class=xl24 width=64 >IC1516MET017AAAAVSSA</td><td class=xl24 width=64 >9440</td><td class=xl24 width=64 >8000</td><td class=xl24 width=64 >28/12/2017</td><td class=xl24 width=64 >Defects in the Invoice</td></tr><tr><td class=xl24 width=64 >15</td><td class=xl24 width=64 >CN171815</td><td class=xl24 width=64 >C17188655C392</td><td class=xl24 width=64 >RB1617MEE002RELASATH</td><td class=xl24 width=64 >377518</td><td class=xl24 width=64 >319931</td><td class=xl24 width=64 >28/12/2017</td><td class=xl24 width=64 >Defects in the Invoice</td></tr><tr><td class=xl24 width=64 >16</td><td class=xl24 width=64 >CN171816</td><td class=xl24 width=64 >C17182758C530</td><td class=xl24 width=64 >RB1718HSS001CLUNVRMU</td><td class=xl24 width=64 >1947600</td><td class=xl24 width=64 >1947600</td><td class=xl24 width=64 >28/12/2017</td><td class=xl24 width=64 >Invoice has been raised wrongly twice</td></tr><tr><td class=xl24 width=64 >17</td><td class=xl24 width=64 >CN171817</td><td class=xl24 width=64 >C17188275C692</td><td class=xl24 width=64 >IC1617MET001AAAARAVK</td><td class=xl24 width=64 >118000</td><td class=xl24 width=64 >100000</td><td class=xl24 width=64 >19/01/2018</td><td class=xl24 width=64 >Number of samples for measurements was subsequently reduced</td></tr><tr><td class=xl24 width=64 >18</td><td class=xl24 width=64 >CN171818</td><td class=xl24 width=64 >C17188477C157</td><td class=xl24 width=64 >RB1617CHY003TITCKOTH</td><td class=xl24 width=64 >85680</td><td class=xl24 width=64 >72610</td><td class=xl24 width=64 >22/01/2018</td><td class=xl24 width=64 >.</td></tr><tr><td class=xl24 width=64 >19</td><td class=xl24 width=64 >CN171819</td><td class=xl24 width=64 >C17188551C829</td><td class=xl24 width=64 >RB1617CHE006SHEIRVIN</td><td class=xl24 width=64 >500000</td><td class=xl24 width=64 >423729</td><td class=xl24 width=64 >23/01/2018</td><td class=xl24 width=64 >PO Number Cancelled </td></tr><tr><td class=xl24 width=64 >20</td><td class=xl24 width=64 >CN171820</td><td class=xl24 width=64 >C17185034C249</td><td class=xl24 width=64 >IC1617CIE178AAAAPALA</td><td class=xl24 width=64 >10030</td><td class=xl24 width=64 >8500</td><td class=xl24 width=64 >21/02/2018</td><td class=xl24 width=64 >Invoice was raised wrongly</td></tr><tr><td class=xl24 width=64 >21</td><td class=xl24 width=64 >CN171821</td><td class=xl24 width=64 >C17182994C1116</td><td class=xl24 width=64 >RB1617MEE009REGEAMAN</td><td class=xl24 width=64 >312957</td><td class=xl24 width=64 >265218</td><td class=xl24 width=64 >21/02/2018</td><td class=xl24 width=64 >Project Closed</td></tr><tr><td class=xl24 width=64 >22</td><td class=xl24 width=64 >CN171822</td><td class=xl24 width=64 >C17183107C394</td><td class=xl24 width=64 >IC1718OEC059SUDPVANA</td><td class=xl24 width=64 >908600</td><td class=xl24 width=64 >770000</td><td class=xl24 width=64 >21/02/2018</td><td class=xl24 width=64 >Services not provided</td></tr><tr><td class=xl24 width=64 >23</td><td class=xl24 width=64 >CN171823</td><td class=xl24 width=64 >C17188460C1349</td><td class=xl24 width=64 >IC1617OEC098HDCORSUN</td><td class=xl24 width=64 >1493873</td><td class=xl24 width=64 >1265994</td><td class=xl24 width=64 >21/02/2018</td><td class=xl24 width=64 >Services not provided</td></tr><tr><td class=xl24 width=64 >24</td><td class=xl24 width=64 >CN171824</td><td class=xl24 width=64 >C17181984C717</td><td class=xl24 width=64 >IC1617CHY004AAAAHODX</td><td class=xl24 width=64 >200000</td><td class=xl24 width=64 >169492</td><td class=xl24 width=64 >22/02/2018</td><td class=xl24 width=64 >Invoice Wrongly raised</td></tr><tr><td class=xl24 width=64 >25</td><td class=xl24 width=64 >CN171825</td><td class=xl24 width=64 >C17181984C630</td><td class=xl24 width=64 >IC1617CHY004AAAAHODX</td><td class=xl24 width=64 >11999</td><td class=xl24 width=64 >10169</td><td class=xl24 width=64 >22/02/2018</td><td class=xl24 width=64 >Invoice raised wrongly</td></tr><tr><td class=xl24 width=64 >26</td><td class=xl24 width=64 >CN171826</td><td class=xl24 width=64 >C17181984C735</td><td class=xl24 width=64 >IC1617CHY004AAAAHODX</td><td class=xl24 width=64 >1000</td><td class=xl24 width=64 >848</td><td class=xl24 width=64 >22/02/2018</td><td class=xl24 width=64 >Invoice wrongly raised</td></tr><tr><td class=xl24 width=64 >27</td><td class=xl24 width=64 >CN171827</td><td class=xl24 width=64 >C17182399C333</td><td class=xl24 width=64 >ET1718ELE001AAAADEVE</td><td class=xl24 width=64 >236000</td><td class=xl24 width=64 >200000</td><td class=xl24 width=64 >23/02/2018</td><td class=xl24 width=64 >Service not provided</td></tr><tr><td class=xl24 width=64 >28</td><td class=xl24 width=64 >CN171828</td><td class=xl24 width=64 >C17183106C757</td><td class=xl24 width=64 >IC1617OEC084NAVPRSUN</td><td class=xl24 width=64 >7615248</td><td class=xl24 width=64 >6453600</td><td class=xl24 width=64 >27/02/2018</td><td class=xl24 width=64 >Revised Invoice requested by P.I</td></tr>

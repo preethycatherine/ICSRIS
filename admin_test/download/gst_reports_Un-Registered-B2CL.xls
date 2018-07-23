@@ -1,0 +1,104 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=xl24 width=64 ><b>S.No</b></td><td class=xl24 width=64 ><b>Invoice Number</b></td><td class=xl24 width=64 ><b>Invoice Date</b></td><td class=xl24 width=64 ><b>Invoice Value</b></td><td class=xl24 width=64 ><b>Place of Supply</b></td><td class=xl24 width=64 ><b>Reverse Charge</b></td><td class=xl24 width=64 ><b>Invoice Type</b></td><td class=xl24 width=64 ><b>Rate</b></td><td class=xl24 width=64 ><b>Taxable Value</b></td></tr><tr><td class=xl24 width=64 >1</td><td class=xl24 width=64 >C17188169C21</td><td class=xl24 width=64 >14-07-2017</td><td class=xl24 width=64 >910075</td><td class=xl24 width=64 > - Haryana</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >771250</td></tr><tr><td class=xl24 width=64 >2</td><td class=xl24 width=64 >C17183053C24</td><td class=xl24 width=64 >17-07-2017</td><td class=xl24 width=64 >43444060</td><td class=xl24 width=64 > - Kerala</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >36817000</td></tr><tr><td class=xl24 width=64 >3</td><td class=xl24 width=64 >C17188731C146</td><td class=xl24 width=64 >28-08-2017</td><td class=xl24 width=64 >743400</td><td class=xl24 width=64 > - Delhi</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >630000</td></tr><tr><td class=xl24 width=64 >4</td><td class=xl24 width=64 >C17188116C149</td><td class=xl24 width=64 >29-08-2017</td><td class=xl24 width=64 >354000</td><td class=xl24 width=64 > - Telangana</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >300000</td></tr><tr><td class=xl24 width=64 >5</td><td class=xl24 width=64 >C17183106C165</td><td class=xl24 width=64 >31-08-2017</td><td class=xl24 width=64 >375000</td><td class=xl24 width=64 > - Andhra Pradesh (New)</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >317797</td></tr><tr><td class=xl24 width=64 >6</td><td class=xl24 width=64 >C17188156C195</td><td class=xl24 width=64 >06-09-2017</td><td class=xl24 width=64 >300000</td><td class=xl24 width=64 > - Karnataka</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >254237</td></tr><tr><td class=xl24 width=64 >7</td><td class=xl24 width=64 >C17188172C227</td><td class=xl24 width=64 >12-09-2017</td><td class=xl24 width=64 >400000</td><td class=xl24 width=64 > - Uttarakhand</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >338983</td></tr><tr><td class=xl24 width=64 >8</td><td class=xl24 width=64 >C17188169C239</td><td class=xl24 width=64 >13-09-2017</td><td class=xl24 width=64 >354000</td><td class=xl24 width=64 > - Andhra Pradesh</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >300000</td></tr><tr><td class=xl24 width=64 >9</td><td class=xl24 width=64 >C17183107C272</td><td class=xl24 width=64 >15-09-2017</td><td class=xl24 width=64 >1062000</td><td class=xl24 width=64 > - Odisha</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >900000</td></tr><tr><td class=xl24 width=64 >10</td><td class=xl24 width=64 >C17188121C274</td><td class=xl24 width=64 >16-09-2017</td><td class=xl24 width=64 >2565792</td><td class=xl24 width=64 > - Delhi</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >2174400</td></tr><tr><td class=xl24 width=64 >11</td><td class=xl24 width=64 >C17188121C275</td><td class=xl24 width=64 >16-09-2017</td><td class=xl24 width=64 >3418224</td><td class=xl24 width=64 > - Delhi</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >2896800</td></tr><tr><td class=xl24 width=64 >12</td><td class=xl24 width=64 >C17188429C352</td><td class=xl24 width=64 >28-09-2017</td><td class=xl24 width=64 >837800</td><td class=xl24 width=64 > - Telangana</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >710000</td></tr><tr><td class=xl24 width=64 >13</td><td class=xl24 width=64 >C17188429C421</td><td class=xl24 width=64 >11-10-2017</td><td class=xl24 width=64 >418900</td><td class=xl24 width=64 > - Telangana</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >355000</td></tr><tr><td class=xl24 width=64 >14</td><td class=xl24 width=64 >C17188228C422</td><td class=xl24 width=64 >11-10-2017</td><td class=xl24 width=64 >1770000</td><td class=xl24 width=64 > - Andaman and Nicobar</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >1500000</td></tr><tr><td class=xl24 width=64 >15</td><td class=xl24 width=64 >C17185008C432</td><td class=xl24 width=64 >12-10-2017</td><td class=xl24 width=64 >480000</td><td class=xl24 width=64 > - Karnataka</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >406780</td></tr><tr><td class=xl24 width=64 >16</td><td class=xl24 width=64 >C17183106C450</td><td class=xl24 width=64 >16-10-2017</td><td class=xl24 width=64 >295000</td><td class=xl24 width=64 > - Odisha</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >250000</td></tr><tr><td class=xl24 width=64 >17</td><td class=xl24 width=64 >C17188029C486</td><td class=xl24 width=64 >24-10-2017</td><td class=xl24 width=64 >751000</td><td class=xl24 width=64 > - Uttar Pradesh</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >636441</td></tr><tr><td class=xl24 width=64 >18</td><td class=xl24 width=64 >C17188130C518</td><td class=xl24 width=64 >30-10-2017</td><td class=xl24 width=64 >3493125</td><td class=xl24 width=64 > - Uttar Pradesh</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >2960275</td></tr><tr><td class=xl24 width=64 >19</td><td class=xl24 width=64 >C17185036C584</td><td class=xl24 width=64 >06-11-2017</td><td class=xl24 width=64 >300000</td><td class=xl24 width=64 > - Punjab</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >254237</td></tr><tr><td class=xl24 width=64 >20</td><td class=xl24 width=64 >C17188309C810</td><td class=xl24 width=64 >30-11-2017</td><td class=xl24 width=64 >394000</td><td class=xl24 width=64 > - Karnataka</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >333898</td></tr><tr><td class=xl24 width=64 >21</td><td class=xl24 width=64 >C17188624C814</td><td class=xl24 width=64 >30-11-2017</td><td class=xl24 width=64 >400000</td><td class=xl24 width=64 > - Karnataka</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >338983</td></tr><tr><td class=xl24 width=64 >22</td><td class=xl24 width=64 >C17183111C860</td><td class=xl24 width=64 >10-12-2017</td><td class=xl24 width=64 >981760</td><td class=xl24 width=64 > - Telangana</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >832000</td></tr><tr><td class=xl24 width=64 >23</td><td class=xl24 width=64 >C17183106C864</td><td class=xl24 width=64 >11-12-2017</td><td class=xl24 width=64 >1092138</td><td class=xl24 width=64 > - Andaman and Nicobar</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >925541</td></tr><tr><td class=xl24 width=64 >24</td><td class=xl24 width=64 >C17188130C872</td><td class=xl24 width=64 >11-12-2017</td><td class=xl24 width=64 >35518000</td><td class=xl24 width=64 > - Odisha</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >30100000</td></tr><tr><td class=xl24 width=64 >25</td><td class=xl24 width=64 >C17188731C902</td><td class=xl24 width=64 >14-12-2017</td><td class=xl24 width=64 >743400</td><td class=xl24 width=64 > - Delhi</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >630000</td></tr><tr><td class=xl24 width=64 >26</td><td class=xl24 width=64 >C17188277C919</td><td class=xl24 width=64 >18-12-2017</td><td class=xl24 width=64 >800000</td><td class=xl24 width=64 > - Andhra Pradesh (New)</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >677966</td></tr><tr><td class=xl24 width=64 >27</td><td class=xl24 width=64 >C17188169C1068</td><td class=xl24 width=64 >01-01-2018</td><td class=xl24 width=64 >1345500</td><td class=xl24 width=64 > - Rajasthan</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >1140254</td></tr><tr><td class=xl24 width=64 >28</td><td class=xl24 width=64 >C17182385C1109</td><td class=xl24 width=64 >04-01-2018</td><td class=xl24 width=64 >600000</td><td class=xl24 width=64 > - Delhi</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >508475</td></tr><tr><td class=xl24 width=64 >29</td><td class=xl24 width=64 >C17188169C1284</td><td class=xl24 width=64 >20-01-2018</td><td class=xl24 width=64 >500000</td><td class=xl24 width=64 > - Andhra Pradesh</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >423729</td></tr><tr><td class=xl24 width=64 >30</td><td class=xl24 width=64 >C17188466C1289</td><td class=xl24 width=64 >22-01-2018</td><td class=xl24 width=64 >896400</td><td class=xl24 width=64 > - Delhi</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >759661</td></tr><tr><td class=xl24 width=64 >31</td><td class=xl24 width=64 >C17188111C1337</td><td class=xl24 width=64 >25-01-2018</td><td class=xl24 width=64 >590000</td><td class=xl24 width=64 > - Kerala</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >500000</td></tr><tr><td class=xl24 width=64 >32</td><td class=xl24 width=64 >C17188157C1424</td><td class=xl24 width=64 >31-01-2018</td><td class=xl24 width=64 >7067000</td><td class=xl24 width=64 > - Uttarakhand</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >5988983</td></tr><tr><td class=xl24 width=64 >33</td><td class=xl24 width=64 >C17183106C1440</td><td class=xl24 width=64 >01-02-2018</td><td class=xl24 width=64 >354000</td><td class=xl24 width=64 > - Andaman and Nicobar</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >300000</td></tr><tr><td class=xl24 width=64 >34</td><td class=xl24 width=64 >C17188209C1446</td><td class=xl24 width=64 >01-02-2018</td><td class=xl24 width=64 >775000</td><td class=xl24 width=64 > - Maharashtra</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >656780</td></tr><tr><td class=xl24 width=64 >35</td><td class=xl24 width=64 >C17183106C1449</td><td class=xl24 width=64 >02-02-2018</td><td class=xl24 width=64 >704348</td><td class=xl24 width=64 > - Andaman and Nicobar</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >596905</td></tr><tr><td class=xl24 width=64 >36</td><td class=xl24 width=64 >C17182489C1571</td><td class=xl24 width=64 >16-02-2018</td><td class=xl24 width=64 >342200</td><td class=xl24 width=64 > - Karnataka</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >290000</td></tr>

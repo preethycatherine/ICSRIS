@@ -1,0 +1,104 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=xl24 width=64 ><b></b></td><td class=xl24 width=64 ><b>No. of Receipient</b></td><td class=xl24 width=64 ><b></b></td><td class=xl24 width=64 ><b>No. of Invoices</b></td><td class=xl24 width=64 ><b></b></td><td class=xl24 width=64 ><b>Total Invoice Value</b></td><td class=xl24 width=64 ><b></b></td><td class=xl24 width=64 ><b></b></td><td class=xl24 width=64 ><b></b></td><td class=xl24 width=64 ><b></b></td><td class=xl24 width=64 ><b>Total Taxable Value</b></td></tr><tr><td class=xl24 width=64 ></td><td class=xl24 width=64 >13</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >14</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >7128600</td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td><td class=xl24 width=64 >7128600</td></tr><tr><td class=xl24 width=64 ><b>S.No</b></td><td class=xl24 width=64 ><b>GSTIN of Receipient</b></td><td class=xl24 width=64 ><b>Receipient Name</b></td><td class=xl24 width=64 ><b>Invoice Number</b></td><td class=xl24 width=64 ><b>Invoice Date</b></td><td class=xl24 width=64 ><b>Invoice Value</b></td><td class=xl24 width=64 ><b>Place of Supply</b></td><td class=xl24 width=64 ><b>Reverse Charge</b></td><td class=xl24 width=64 ><b>Invoice Type</b></td><td class=xl24 width=64 ><b>Rate</b></td><td class=xl24 width=64 ><b>Taxable Value</b></td></tr><tr><td class=xl24 width=64 >1</td><td class=xl24 width=64 >33AAACC3035G1ZA</td><td class=xl24 width=64 >COMPUTER AGE MANAGEMENT SERVICES PRIVATE LIMITED</td><td class=xl24 width=64 >C17188222C830</td><td class=xl24 width=64 >04-12-2017</td><td class=xl24 width=64 >700000</td><td class=xl24 width=64 >33 - TamilNadu</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >700000</td></tr><tr><td class=xl24 width=64 >2</td><td class=xl24 width=64 >24AAACR5055K3ZB</td><td class=xl24 width=64 >RELIANCE INDUSTRIES LIMITED</td><td class=xl24 width=64 >C17185032C925</td><td class=xl24 width=64 >19-12-2017</td><td class=xl24 width=64 >1200000</td><td class=xl24 width=64 >24 - Gujarat</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >1200000</td></tr><tr><td class=xl24 width=64 >3</td><td class=xl24 width=64 >33EXEMPTICSR001</td><td class=xl24 width=64 >Fibsol Life Technologies Pvt Ltd</td><td class=xl24 width=64 >C17188028C978</td><td class=xl24 width=64 >20-12-2017</td><td class=xl24 width=64 >132000</td><td class=xl24 width=64 >33 - TamilNadu</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >132000</td></tr><tr><td class=xl24 width=64 >4</td><td class=xl24 width=64 >33EXEMPTICSR002</td><td class=xl24 width=64 >Theevanam Additives & Nutraceuts Pvt Ltd</td><td class=xl24 width=64 >C17188028C980</td><td class=xl24 width=64 >20-12-2017</td><td class=xl24 width=64 >90000</td><td class=xl24 width=64 >33 - TamilNadu</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >90000</td></tr><tr><td class=xl24 width=64 >5</td><td class=xl24 width=64 >33EXEMPTICSR003</td><td class=xl24 width=64 >CISGEN Biotech Discoveries Pvt Ltd</td><td class=xl24 width=64 >C17188028C981</td><td class=xl24 width=64 >20-12-2017</td><td class=xl24 width=64 >90000</td><td class=xl24 width=64 >33 - TamilNadu</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >90000</td></tr><tr><td class=xl24 width=64 >6</td><td class=xl24 width=64 >33AAICP2735L2Z8</td><td class=xl24 width=64 >M/s Perungudi Real Estates Private Limited</td><td class=xl24 width=64 >C17182776C1000</td><td class=xl24 width=64 >21-12-2017</td><td class=xl24 width=64 >4275000</td><td class=xl24 width=64 >33 - TamilNadu</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >4275000</td></tr><tr><td class=xl24 width=64 >7</td><td class=xl24 width=64 >33EXEMPTICSR001</td><td class=xl24 width=64 >Fibsol Life Technologies Pvt Ltd</td><td class=xl24 width=64 >C17188028C1051</td><td class=xl24 width=64 >28-12-2017</td><td class=xl24 width=64 >26400</td><td class=xl24 width=64 >33 - TamilNadu</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >26400</td></tr><tr><td class=xl24 width=64 >8</td><td class=xl24 width=64 >33EXEMPTICSR004</td><td class=xl24 width=64 >Quest CompBio Private Limited</td><td class=xl24 width=64 >C17188028C1052</td><td class=xl24 width=64 >28-12-2017</td><td class=xl24 width=64 >20000</td><td class=xl24 width=64 >33 - TamilNadu</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >20000</td></tr><tr><td class=xl24 width=64 >9</td><td class=xl24 width=64 >33EXEMPTICSR005</td><td class=xl24 width=64 >Medha Innovation</td><td class=xl24 width=64 >C17188028C1053</td><td class=xl24 width=64 >28-12-2017</td><td class=xl24 width=64 >60000</td><td class=xl24 width=64 >33 - TamilNadu</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >60000</td></tr><tr><td class=xl24 width=64 >10</td><td class=xl24 width=64 >33EXEMPTICSR006</td><td class=xl24 width=64 >Cisgen Biotech Pvt ltd</td><td class=xl24 width=64 >C17188028C1054</td><td class=xl24 width=64 >28-12-2017</td><td class=xl24 width=64 >79200</td><td class=xl24 width=64 >33 - TamilNadu</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >79200</td></tr><tr><td class=xl24 width=64 >11</td><td class=xl24 width=64 >33EXEMPTICSR007</td><td class=xl24 width=64 >Vital Bioscientific Solution</td><td class=xl24 width=64 >C17188028C1055</td><td class=xl24 width=64 >28-12-2017</td><td class=xl24 width=64 >126000</td><td class=xl24 width=64 >33 - TamilNadu</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >126000</td></tr><tr><td class=xl24 width=64 >12</td><td class=xl24 width=64 >33EXEMPTICSR008</td><td class=xl24 width=64 >Yaathum Biotech Pvt ltd</td><td class=xl24 width=64 >C17188028C1056</td><td class=xl24 width=64 >28-12-2017</td><td class=xl24 width=64 >201600</td><td class=xl24 width=64 >33 - TamilNadu</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >201600</td></tr><tr><td class=xl24 width=64 >13</td><td class=xl24 width=64 >33EXEMPTICSR009</td><td class=xl24 width=64 >Purius Nanosystems pvt ltd</td><td class=xl24 width=64 >C17188028C1057</td><td class=xl24 width=64 >28-12-2017</td><td class=xl24 width=64 >49200</td><td class=xl24 width=64 >33 - TamilNadu</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >49200</td></tr><tr><td class=xl24 width=64 >14</td><td class=xl24 width=64 >33EXEMPTICSR010</td><td class=xl24 width=64 >Theevanam Additives and Nutraceuts pvt ltd</td><td class=xl24 width=64 >C17188028C1058</td><td class=xl24 width=64 >28-12-2017</td><td class=xl24 width=64 >79200</td><td class=xl24 width=64 >33 - TamilNadu</td><td class=xl24 width=64 >N</td><td class=xl24 width=64 >Regular</td><td class=xl24 width=64 >18.00</td><td class=xl24 width=64 >79200</td></tr>

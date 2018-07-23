@@ -1,0 +1,138 @@
+.part1{
+Width:500px;
+float:left;
+}
+.part3{
+Width:350px;
+float:left;
+
+}
+.part4{
+height: 221px;
+}
+.text{
+text-align: justify;
+}
+.title{
+color: #fff;
+}
+
+/* Top Scroll*/
+#back-top {
+	position: fixed;
+	bottom: 30px;	
+}
+
+#back-top a {
+	width: 100px;
+	display: block;
+	margin-left: 10px;
+	text-align: center;
+	font: 11px/100% Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #bbb;
+	/* background color transition */
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+}
+#back-top a:hover {
+	color: #000;
+}
+/* arrow icon (span tag) */
+#back-top span {
+	width: 100px;
+	height: 92px;
+	margin-left: 10px;
+	display: block;
+	margin-bottom: 7px;
+	background: #ddd url(up-arrow.png) no-repeat center center;
+	/* rounded corners */
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	/* background color transition */
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+}
+#back-top a:hover span {
+	background-color: #777;
+}
+
+/* End Scroll */
+
+.listla li{
+list-style-image: url('images/arrow.png');
+}
+.port6{
+width: 177px;
+float:left;
+padding:28px;
+border-right:2px solid #A51F1F;
+border-left:2px solid #A51F1F;
+border-top: 2px solid #A51F1F;
+height: 760px;
+border-bottom: 2px solid #A51F1F;
+}
+.form_model
+{
+background-color: #F0E6E6;
+padding: 17px;
+border: 3px solid #DB9367;
+}
+
+.port7{
+width:190px;
+float:left;
+padding:28px;
+border-right:2px solid #A51F1F;
+height: 760px;
+border-bottom: 2px solid #A51F1F;
+border-top: 2px solid #A51F1F;
+}
+.port8{
+width:190px;
+float:left;
+padding:28px;
+border-right:2px solid #A51F1F;
+height: 760px;
+border-bottom: 2px solid #A51F1F;
+border-top: 2px solid #A51F1F;
+}
+.titlenew6{
+background-color: #BE7F37;
+padding: 9px;
+color: #fff;
+}
+.titlenew7{
+background-color: #BE7F37;
+padding: 9px;
+color: #fff;
+}
+.titlenew8{
+background-color: #BE7F37;
+ padding: 9px;
+ color: #fff;
+}
+.text{
+text-align: justify;
+  font-size: 13px;
+  line-height: 1.7em;
+}
+.le_img
+{
+float: left;
+}
+.part11{
+Width:480px;
+float:left;
+}
+.part12{
+Width:480px;
+float:left;
+}
+dd{
+	color:#000;
+}

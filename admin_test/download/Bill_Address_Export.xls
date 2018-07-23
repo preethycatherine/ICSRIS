@@ -1,0 +1,133 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=xl24 width=64 ><b>S.No</b></td><td class=xl24 width=64 ><b>Vendor Name</b></td><td class=xl24 width=64 ><b>ADDRESS</b></td><td class=xl24 width=64 ><b>Country</b></td><td class=xl24 width=64 ><b>Contact Person</b></td><td class=xl24 width=64 ><b>Email</b></td><td class=xl24 width=64 ><b>Contact No</b></td><td class=xl24 width=64 ><b>CREATEDBY</b></td></tr><tr><td class=xl24 width=64 >1</td><td class=xl24 width=64 >Ecole Polytechnique Federale de Lausanne</td><td class=xl24 width=64 >CH 1015 Lausanne</td><td class=xl24 width=64 >Switzerland</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >MANUS</td></tr><tr><td class=xl24 width=64 >2</td><td class=xl24 width=64 >Diamond Cement Company Limited</td><td class=xl24 width=64 >Aflao, Volta Region</td><td class=xl24 width=64 >Ghana</td><td class=xl24 width=64 >Mr. Rama Rao</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >NALLAY</td></tr><tr><td class=xl24 width=64 >3</td><td class=xl24 width=64 >Sapura Energy</td><td class=xl24 width=64 >Sapura Offshore Sdn.Bhd
+No.7 Jalan Tasik
+Mines Resort City - 43300 Seri kembangan Selangor, Malaysia</td><td class=xl24 width=64 >Malaysia</td><td class=xl24 width=64 >Mr. Ben Lim</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >NALLAY</td></tr><tr><td class=xl24 width=64 >4</td><td class=xl24 width=64 >MIT</td><td class=xl24 width=64 >400 Main St
+Cambridge, MA 02142</td><td class=xl24 width=64 >USA</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >ANILPR</td></tr><tr><td class=xl24 width=64 >5</td><td class=xl24 width=64 >Aalto University</td><td class=xl24 width=64 >P.O.B 11000, FI-00076
+Aalto</td><td class=xl24 width=64 >Finland</td><td class=xl24 width=64 >Prof. Olli Ikkala</td><td class=xl24 width=64 >olli.ikkala@aalto.fi</td><td class=xl24 width=64 > </td><td class=xl24 width=64 >PRADEEP</td></tr><tr><td class=xl24 width=64 >6</td><td class=xl24 width=64 >UNESCO BANGKOK</td><td class=xl24 width=64 >920,Sukhumvit road,Bangkok-10110</td><td class=xl24 width=64 >Thailand</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >4500335912</td><td class=xl24 width=64 >admin</td></tr><tr><td class=xl24 width=64 >7</td><td class=xl24 width=64 >Toshiba Corporation</td><td class=xl24 width=64 >Social Infrastructure Systems Company, Transmission & Distribution Systems Division, 72-34, Horikawa-cho, Saiwai-ku, Kawasaki 212-8585</td><td class=xl24 width=64 >Japan</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >admin</td></tr><tr><td class=xl24 width=64 >8</td><td class=xl24 width=64 >Chryso S.A.S.</td><td class=xl24 width=64 >19, place de la Resistance
+92446 Issy les Moulineaux</td><td class=xl24 width=64 >France</td><td class=xl24 width=64 >Pascal Boustingorry</td><td class=xl24 width=64 >pascal.boustingorry@chryso.com</td><td class=xl24 width=64 >+33 6-33-91-38-70</td><td class=xl24 width=64 >GETTU</td></tr><tr><td class=xl24 width=64 >9</td><td class=xl24 width=64 >Norwegian University of Science and Technology (NTNU)</td><td class=xl24 width=64 >NTNU, Department of Energy and Process Engineering
+Kolbjørn Hejes vei 1D, No-7491 Trondheim.</td><td class=xl24 width=64 >Norway</td><td class=xl24 width=64 >Prof. (Dr.) Armin HAFNER</td><td class=xl24 width=64 >armin.hafner@ntnu.no</td><td class=xl24 width=64 >+47 92857730</td><td class=xl24 width=64 >MPMAIYA</td></tr><tr><td class=xl24 width=64 >10</td><td class=xl24 width=64 >Archirodon Construction (Overseas) CO.SA</td><td class=xl24 width=64 >P.O. Box 52150, Dubai, UAE</td><td class=xl24 width=64 >Dubai</td><td class=xl24 width=64 >Mr. Robinder Singh Bambah</td><td class=xl24 width=64 >r.singh@archirodon.net</td><td class=xl24 width=64 >+971528812767</td><td class=xl24 width=64 >NALLAY</td></tr><tr><td class=xl24 width=64 >11</td><td class=xl24 width=64 >Accenture LLP</td><td class=xl24 width=64 >50 West San Fernando Street. Suite 1200</td><td class=xl24 width=64 >United States of America</td><td class=xl24 width=64 >Daniel Winger</td><td class=xl24 width=64 >Daniel.winger@accenture.com</td><td class=xl24 width=64 >1-408-817-2100</td><td class=xl24 width=64 >SUTANUC</td></tr><tr><td class=xl24 width=64 >12</td><td class=xl24 width=64 >Eawag</td><td class=xl24 width=64 >Eawag
+
+Überlandstrasse 133
+
+CH-8600 Dübendorf</td><td class=xl24 width=64 >Switzerland</td><td class=xl24 width=64 >Lukas Ulrich</td><td class=xl24 width=64 >Lukas.Ulrich@eawag.c</td><td class=xl24 width=64 > </td><td class=xl24 width=64 >LIGY</td></tr><tr><td class=xl24 width=64 >13</td><td class=xl24 width=64 >Chiang Ching Kuo Foundation </td><td class=xl24 width=64 >3F,65,Section 2, Tun Hwa South Road, Taipei 106</td><td class=xl24 width=64 >Taiwan</td><td class=xl24 width=64 > </td><td class=xl24 width=64 >cckf@ms1.hinet.net</td><td class=xl24 width=64 >+886-2-2701-6762</td><td class=xl24 width=64 >admin</td></tr><tr><td class=xl24 width=64 >14</td><td class=xl24 width=64 >China Harbour Engineering Company Ltd.</td><td class=xl24 width=64 >PO Box. 491, 8th Floor
+Al Mana Tower
+Airport Road, Doha, Qatar</td><td class=xl24 width=64 >Qatar</td><td class=xl24 width=64 >Wang Shuxin</td><td class=xl24 width=64 >qatar@chec.bj.cn</td><td class=xl24 width=64 >+974 44622735</td><td class=xl24 width=64 >GOPALKR</td></tr><tr><td class=xl24 width=64 >15</td><td class=xl24 width=64 >Stanadyne LLC</td><td class=xl24 width=64 >92 Deerfield Road
+Windsor, CT 06095</td><td class=xl24 width=64 >USA</td><td class=xl24 width=64 >Balasubramanian N</td><td class=xl24 width=64 >nbalasubramanian@Stanadyne.onmicrosoft.com</td><td class=xl24 width=64 > </td><td class=xl24 width=64 >ANAND</td></tr><tr><td class=xl24 width=64 >16</td><td class=xl24 width=64 >KLA-Tencor Corporation</td><td class=xl24 width=64 >1 Technology Drive Milpitas California 95035</td><td class=xl24 width=64 >USA</td><td class=xl24 width=64 >Kris Bhaskar</td><td class=xl24 width=64 >Kris.Bhaskar@kla-tencor.com</td><td class=xl24 width=64 >408-875-6347</td><td class=xl24 width=64 >ANRAJU</td></tr><tr><td class=xl24 width=64 >17</td><td class=xl24 width=64 >Sandvik Materials Technology</td><td class=xl24 width=64 >C/O Sandvik AB 
+2115-Country Finance Sweden
+S-811 81 SANDVIKEN</td><td class=xl24 width=64 >Sweden</td><td class=xl24 width=64 >Sivaprasad Palla and Mattias Gardsback</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >admin</td></tr><tr><td class=xl24 width=64 >18</td><td class=xl24 width=64 >Safewater Nano Pte. Ltd</td><td class=xl24 width=64 >C/O,Nano Holding Asia Pte. Ltd. 112, Rowayton Ave., Norwalk, CT-06853</td><td class=xl24 width=64 >USA</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >admin</td></tr><tr><td class=xl24 width=64 >19</td><td class=xl24 width=64 >Indivumed GmbH</td><td class=xl24 width=64 >Falkenried 88, 20251, Hamburg</td><td class=xl24 width=64 >Germany</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >admin</td></tr><tr><td class=xl24 width=64 >20</td><td class=xl24 width=64 >LAM RESEARCH CORPORATION</td><td class=xl24 width=64 >4650 CUSHING PARKWAY, FRAMONT, CA 94538</td><td class=xl24 width=64 >USA</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >admin</td></tr><tr><td class=xl24 width=64 >21</td><td class=xl24 width=64 >BUDDI Health</td><td class=xl24 width=64 >100 Maiden Lane Suite #1905</td><td class=xl24 width=64 >New York</td><td class=xl24 width=64 >Ram Swaminathan</td><td class=xl24 width=64 >Rams@BUDDIHealth.com</td><td class=xl24 width=64 > </td><td class=xl24 width=64 >RAVIB</td></tr><tr><td class=xl24 width=64 >22</td><td class=xl24 width=64 >Columbia University</td><td class=xl24 width=64 >ICITE, 3078 Broadway,
+NY, NY10027</td><td class=xl24 width=64 >USA</td><td class=xl24 width=64 >Jamie Beckenstein</td><td class=xl24 width=64 >jb3927@columbia.edu</td><td class=xl24 width=64 >001-212-854-4106</td><td class=xl24 width=64 >VRM</td></tr><tr><td class=xl24 width=64 >23</td><td class=xl24 width=64 >WESTERN MARINE SHIPYARD LTD.</td><td class=xl24 width=64 >Amin Future Park (7th floor)
+1440/A Strand Road, Goshaildanga,
+Chittagong-4100
+</td><td class=xl24 width=64 >Bangladesh.</td><td class=xl24 width=64 > Abdul Mobin</td><td class=xl24 width=64 >mobin@wms.com.bd</td><td class=xl24 width=64 >(880)-31-712177, 726579, 2530030</td><td class=xl24 width=64 >SUBRU</td></tr><tr><td class=xl24 width=64 >24</td><td class=xl24 width=64 >ORB Analytics, Inc.</td><td class=xl24 width=64 >490 Virginia Road, Suite 11/12
+Concord, MA 01742</td><td class=xl24 width=64 >USA</td><td class=xl24 width=64 >Sam MacMullan</td><td class=xl24 width=64 >sam.macmullan@orbanalytics.com</td><td class=xl24 width=64 > </td><td class=xl24 width=64 >ANDREW</td></tr><tr><td class=xl24 width=64 >25</td><td class=xl24 width=64 >Factory of Takeuchi Nenshi</td><td class=xl24 width=64 >Japan</td><td class=xl24 width=64 >Japan</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >RAYALA</td></tr><tr><td class=xl24 width=64 >26</td><td class=xl24 width=64 >UNDP</td><td class=xl24 width=64 >United Nations Development Programme (UNDP)
+Post Box #3059, 55 Lodhi Estate
+New Delhi - 110003, India</td><td class=xl24 width=64 >India</td><td class=xl24 width=64 >Atri Pande</td><td class=xl24 width=64 >atri.pande@undp.org</td><td class=xl24 width=64 > </td><td class=xl24 width=64 >NBALAJI</td></tr><tr><td class=xl24 width=64 >27</td><td class=xl24 width=64 >Maschinenfabrik Reinhausen</td><td class=xl24 width=64 >Falkenstein Str, 8, 93059
+Regensburg
+</td><td class=xl24 width=64 >Germany</td><td class=xl24 width=64 >Ajaiy Neelakantan</td><td class=xl24 width=64 >a.nilakantan@reinhausen.com</td><td class=xl24 width=64 > </td><td class=xl24 width=64 >KRISHNA.VASUDEVAN</td></tr><tr><td class=xl24 width=64 >28</td><td class=xl24 width=64 >SINTEF Energi AS  </td><td class=xl24 width=64 >c/o Fakturamottak Postboks 4515 8608 Mo i Rana</td><td class=xl24 width=64 >Norway</td><td class=xl24 width=64 >Dr. Krzysztof Banasiak</td><td class=xl24 width=64 >Krzysztof.Banasiak@sintef.no</td><td class=xl24 width=64 >+47 930 05 917</td><td class=xl24 width=64 >MPMAIYA</td></tr><tr><td class=xl24 width=64 >29</td><td class=xl24 width=64 >RTI INTERNATIONAL</td><td class=xl24 width=64 >PO BOX 12106
+Research Triangle park
+NC 27709-2106</td><td class=xl24 width=64 >UNITED STATES</td><td class=xl24 width=64 >Sonia</td><td class=xl24 width=64 >sgrego@rti.org </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >LIGY</td></tr><tr><td class=xl24 width=64 >30</td><td class=xl24 width=64 >Google Ireland Limited</td><td class=xl24 width=64 >Gordon House Barrow Street Dublin 4</td><td class=xl24 width=64 >Ireland</td><td class=xl24 width=64 >Gareth Morgan</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >RAVIB</td></tr><tr><td class=xl24 width=64 >31</td><td class=xl24 width=64 >Intel Technology India Pvt. Ltd.</td><td class=xl24 width=64 >#23-56P, Devarabeesanahalli Outer Ring Road, VarthurHobli</td><td class=xl24 width=64 >India</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >admin</td></tr><tr><td class=xl24 width=64 >32</td><td class=xl24 width=64 >Afcons Infrastructure Limited</td><td class=xl24 width=64 >Plot No. 433/1, 2nd level, B Unit, 2nd phase residential area road, No. 6 Sonadanga, Post office no. 9100, Khulna</td><td class=xl24 width=64 >Bangladesh</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >NALLAY</td></tr><tr><td class=xl24 width=64 >33</td><td class=xl24 width=64 >Qualcomm Incorporated</td><td class=xl24 width=64 >San Diego</td><td class=xl24 width=64 >USA</td><td class=xl24 width=64 >Dr Manish Kothari</td><td class=xl24 width=64 >mkothari@qti.qualcomm.com</td><td class=xl24 width=64 >7702424567</td><td class=xl24 width=64 >GIRIDHARK</td></tr><tr><td class=xl24 width=64 >34</td><td class=xl24 width=64 >London School of Hygiene and Tropical Medicine</td><td class=xl24 width=64 >Keppel St, Bloomsbury, London WC1E 7HT</td><td class=xl24 width=64 >UK</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >admin</td></tr><tr><td class=xl24 width=64 >35</td><td class=xl24 width=64 >ETH Singapore SEC Ltd</td><td class=xl24 width=64 >1 CREATE Way #06-01,
+CREATE Tower
+Singapore 138602
+</td><td class=xl24 width=64 >Singapore</td><td class=xl24 width=64 >Costa  Alberto</td><td class=xl24 width=64 >costa@arch.ethz.ch</td><td class=xl24 width=64 > </td><td class=xl24 width=64 >BENNY</td></tr>

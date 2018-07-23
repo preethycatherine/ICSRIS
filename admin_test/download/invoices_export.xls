@@ -1,0 +1,108 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=xl24 width=64 ><b>S.No</b></td><td class=xl24 width=64 ><b>Invoice Date</b></td><td class=xl24 width=64 ><b>Invoice Number</b></td><td class=xl24 width=64 ><b>Project Number</b></td><td class=xl24 width=64 ><b>PI Name</b></td><td class=xl24 width=64 ><b>DeptName</b></td><td class=xl24 width=64 ><b>Description of Services</b></td><td class=xl24 width=64 ><b>Currency Type</b></td><td class=xl24 width=64 ><b>Taxable Value</b></td><td class=xl24 width=64 ><b>CGST (9%)</b></td><td class=xl24 width=64 ><b>SGST (9%)</b></td><td class=xl24 width=64 ><b>IGST (18%)</b></td><td class=xl24 width=64 ><b>Total Invoice Value</b></td><td class=xl24 width=64 ><b>SACNumber</b></td><td class=xl24 width=64 ><b>Biller Name</b></td><td class=xl24 width=64 ><b>Address</b></td><td class=xl24 width=64 ><b>Country</b></td><td class=xl24 width=64 ><b>Contact Person</b></td><td class=xl24 width=64 ><b>Email</b></td><td class=xl24 width=64 ><b>Contact No</b></td></tr><tr><td class=xl24 width=64 >1</td><td class=xl24 width=64 >05-02-2018</td><td class=xl24 width=64 >C17188292C1462</td><td class=xl24 width=64 >RB1617HSS008CHIASONI</td><td class=xl24 width=64 >SONIKA GUPTA</td><td class=xl24 width=64 >Humanities & Social Sciences</td><td class=xl24 width=64 >Linimal Space of Citizenship: A study of Tibetan Refugees in India</td><td class=xl24 width=64 >USD       </td><td class=xl24 width=64 >5500</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >5500</td><td class=xl24 width=64 >998122</td><td class=xl24 width=64 >Chiang Ching Kuo Foundation </td><td class=xl24 width=64 >3F,65,Section 2, Tun Hwa South Road, Taipei 106</td><td class=xl24 width=64 >Taiwan</td><td class=xl24 width=64 > </td><td class=xl24 width=64 >cckf@ms1.hinet.net</td><td class=xl24 width=64 >+886-2-2701-6762</td></tr><tr><td class=xl24 width=64 >2</td><td class=xl24 width=64 >09-02-2018</td><td class=xl24 width=64 >C17185036C1516</td><td class=xl24 width=64 >RB1516CIE013BMGFLIGY</td><td class=xl24 width=64 >LIGY PHILIP</td><td class=xl24 width=64 >Civil Engineering</td><td class=xl24 width=64 >Evaluation of small scale decentralized sanitation systems</td><td class=xl24 width=64 >USD       </td><td class=xl24 width=64 >77033</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >77033</td><td class=xl24 width=64 >-Select SAC Number-</td><td class=xl24 width=64 >Eawag</td><td class=xl24 width=64 >Eawag
+
+Überlandstrasse 133
+
+CH-8600 Dübendorf</td><td class=xl24 width=64 >Switzerland</td><td class=xl24 width=64 >Lukas Ulrich</td><td class=xl24 width=64 >Lukas.Ulrich@eawag.c</td><td class=xl24 width=64 > </td></tr><tr><td class=xl24 width=64 >3</td><td class=xl24 width=64 >15-02-2018</td><td class=xl24 width=64 >C17182505C1557</td><td class=xl24 width=64 >TT1415CHY116NANOTPRA</td><td class=xl24 width=64 >PRADEEP T</td><td class=xl24 width=64 >Chemistry</td><td class=xl24 width=64 >Payment for the project titled " Water purifiers licensing of patents to Nano Holding"</td><td class=xl24 width=64 >USD       </td><td class=xl24 width=64 >3657</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >3657</td><td class=xl24 width=64 >998393</td><td class=xl24 width=64 >Safewater Nano Pte. Ltd</td><td class=xl24 width=64 >C/O,Nano Holding Asia Pte. Ltd. 112, Rowayton Ave., Norwalk, CT-06853</td><td class=xl24 width=64 >USA</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td></tr><tr><td class=xl24 width=64 >4</td><td class=xl24 width=64 >22-02-2018</td><td class=xl24 width=64 >C17188287C1614</td><td class=xl24 width=64 >RB1718BIO001INGHSMAH</td><td class=xl24 width=64 >MAHALINGAM S</td><td class=xl24 width=64 >Biotechnology</td><td class=xl24 width=64 >Payment for the project titled " IIT Madras Cancer Library"</td><td class=xl24 width=64 >EUR       </td><td class=xl24 width=64 >376200</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >376200</td><td class=xl24 width=64 >-Select SAC Number-</td><td class=xl24 width=64 >Indivumed GmbH</td><td class=xl24 width=64 >Falkenried 88, 20251, Hamburg</td><td class=xl24 width=64 >Germany</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td></tr><tr><td class=xl24 width=64 >5</td><td class=xl24 width=64 >23-02-2018</td><td class=xl24 width=64 >C17188834C1622</td><td class=xl24 width=64 >IC1718CIE106AAAABRCH</td><td class=xl24 width=64 >BHARGAVA RAMA CHILUKURI</td><td class=xl24 width=64 >Civil Engineering</td><td class=xl24 width=64 >Payment towards "Traffic modelling analyses and traffic studies"</td><td class=xl24 width=64 >USD       </td><td class=xl24 width=64 >1543</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >1543</td><td class=xl24 width=64 >998393</td><td class=xl24 width=64 >TRAFIQ</td><td class=xl24 width=64 >1481,ST.Marys lane, Suite, Houstan, Texas-77079</td><td class=xl24 width=64 >USA</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td></tr>

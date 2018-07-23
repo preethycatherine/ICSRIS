@@ -1,0 +1,146 @@
+body
+{
+	background:#E9E9E9;
+}
+
+ul#files
+{ 
+	list-style:none; padding:0; margin:0; margin-top:14px;
+}
+ul#files li
+{ 
+	padding:10px; margin-bottom:2px; min-width:50px; float:left; margin-right:10px;
+}
+ul#files li img
+{ 
+	max-width:180px; max-height:150px; 
+}
+.nopad
+{
+	padding:0px;
+}
+
+/* Login Page Starts Here */
+.login-form 
+{
+	background:#fff;
+	width:40%;
+	margin:9% auto 4% auto;
+ 	position: relative;
+ 	-webkit-border-radius: 0.4em;
+	-o-border-radius: 0.4em;
+	-moz-border-radius: 0.4em;
+}
+.head 
+{
+	position: absolute;
+	top:-15%;
+	left: 35%;
+}
+.head img 
+{
+	border-radius:50%;
+	-webkit-border-radius:50%;
+	-o-border-radius:50%;
+	-moz-border-radius:50%;
+	border:6px solid rgba(221, 218, 215, 0.23);
+}
+.main
+{
+	position:relative;
+}
+.main h1
+{
+	font-size:25px;
+	color:#676767;
+	font-weight:800;
+	padding-top: 19%;
+	text-align: center;
+}
+.main form 
+{
+	width: 80%;
+	margin: 0 auto;
+	padding: 6% 0 9% 0;
+}
+.main p 
+{
+	text-align: center;
+}
+.main form p a 
+{
+	color: #888;
+}
+form p a:hover 
+{
+	color:#21A957;
+}
+ input[type="text"], input[type="password"]
+ {
+	text-align:left;
+	position: relative;
+	width:99%;
+	padding:3%;
+	background:#E9E9E9;
+	margin-bottom: 6%;
+	color: #676767;
+	font-weight:600;
+	font-size: 16px;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	border:1px solid #DED6D6;
+	-webkit-appearance:none;
+}
+ input[type="text"]:hover, input[type="password"]:hover
+ {
+ 	border:1px solid #949494;
+	transition:0.5s;
+	-webkit-transition:0.5s;
+	-moz-transition:0.5s;
+	-o-transition:0.5s;
+	-ms-transition:	0.5s;
+ 	
+ }
+input[type="submit"]
+{
+	width: 99%;
+	padding: 3%;
+	margin-bottom: 8%;
+	background: #3c8dbc;
+	color: #ECECEC;
+	box-shadow: inset 0px 0px 10px #666464;
+	-webkit-text-shadow: 0px 0px 3px #000;
+	-moz-text-shadow: 0px 0px 3px #000;
+	-o-text-shadow: 0px 0px 3px #000;
+	-ms-text-shadow: 0px 0px 3px #000;
+	font-size: 20px;
+	outline: none;
+	border: none;
+	cursor: pointer;
+	font-weight:500;
+	border-radius: 5px;
+	transition: 0.5s;
+	-webkit-appearance:none;
+	-webkit-transition: 0.5s;
+	-moz-transition: 0.5s;
+	-o-transition: 0.5s;
+	-ms-transition: 0.5s;
+}
+input[type="submit"]:hover
+{
+	background:#3c8dbc;
+	color:#fff;
+}
+/* Login Page Ends Here*/
+
+.prodlisttable tr th 
+{
+	min-width:130px;
+}
+
+.Editor-editor
+{
+	background-color:#fff;
+	color:#000;
+}

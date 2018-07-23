@@ -1,0 +1,108 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=xl24 width=64 ><b>S.No</b></td><td class=xl24 width=64 ><b>Invoice Date</b></td><td class=xl24 width=64 ><b>Invoice Number</b></td><td class=xl24 width=64 ><b>Project Number</b></td><td class=xl24 width=64 ><b>PI Name</b></td><td class=xl24 width=64 ><b>DeptName</b></td><td class=xl24 width=64 ><b>Description of Services</b></td><td class=xl24 width=64 ><b>Taxable Value</b></td><td class=xl24 width=64 ><b>CGST (9%)</b></td><td class=xl24 width=64 ><b>SGST (9%)</b></td><td class=xl24 width=64 ><b>IGST (18%)</b></td><td class=xl24 width=64 ><b>Total Invoice Value</b></td><td class=xl24 width=64 ><b>SACNumber</b></td><td class=xl24 width=64 ><b>Biller Name</b></td><td class=xl24 width=64 ><b>Address</b></td><td class=xl24 width=64 ><b>District</b></td><td class=xl24 width=64 ><b>Pin Code</b></td><td class=xl24 width=64 ><b>State</b></td><td class=xl24 width=64 ><b>State Code</b></td><td class=xl24 width=64 ><b>GSTIN</b></td><td class=xl24 width=64 ><b>PAN No</b></td><td class=xl24 width=64 ><b>TAN No</b></td><td class=xl24 width=64 ><b>Contact Person</b></td><td class=xl24 width=64 ><b>Email</b></td><td class=xl24 width=64 ><b>Contact No</b></td></tr><tr><td class=xl24 width=64 >1</td><td class=xl24 width=64 >01-01-2018</td><td class=xl24 width=64 >C17188166C1072</td><td class=xl24 width=64 >RB1617HSS004WHORUMAK</td><td class=xl24 width=64 >UMAKANT DASH</td><td class=xl24 width=64 >Humanities & Social Sciences</td><td class=xl24 width=64 >Payment for the the project titled " Analysis of claims data to inform strategic purchasing in the Indian context"</td><td class=xl24 width=64 >223182</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >223182</td><td class=xl24 width=64 >999799</td><td class=xl24 width=64 >World Health Organisation</td><td class=xl24 width=64 >Regional Office for South-East Asia
+World Health House
+Indraprastha Estate
+Mahatma Gandhi Marg
+</td><td class=xl24 width=64 >New Delhi </td><td class=xl24 width=64 >110 002</td><td class=xl24 width=64 >Delhi</td><td class=xl24 width=64 >07</td><td class=xl24 width=64 >0717UNO00059UNK</td><td class=xl24 width=64 >17UNO00059</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td></tr><tr><td class=xl24 width=64 >2</td><td class=xl24 width=64 >10-01-2018</td><td class=xl24 width=64 >C17188204C1164</td><td class=xl24 width=64 >CR1718CIE002PCSLINDU</td><td class=xl24 width=64 >INDUMATHI M NAMBI</td><td class=xl24 width=64 >Civil Engineering</td><td class=xl24 width=64 >Payment towards "Carbon Zero Challenge"</td><td class=xl24 width=64 >2500000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >2500000</td><td class=xl24 width=64 >998393</td><td class=xl24 width=64 >POLARIS CONSULTING & SERVICES LIMITED</td><td class=xl24 width=64 >No. 34 IT Highway, Navallur</td><td class=xl24 width=64 >Chennai</td><td class=xl24 width=64 >600130</td><td class=xl24 width=64 >TamilNadu</td><td class=xl24 width=64 >33</td><td class=xl24 width=64 >33AAACP4341E1ZY</td><td class=xl24 width=64 >AAACP4341E</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td></tr><tr><td class=xl24 width=64 >3</td><td class=xl24 width=64 >10-01-2018</td><td class=xl24 width=64 >C17185032C1169</td><td class=xl24 width=64 >CR1718MEE001ALUMKRIS</td><td class=xl24 width=64 >KRISHNAN BALASUBRAMANIAM</td><td class=xl24 width=64 >Mechanical Engineering</td><td class=xl24 width=64 >Payment towards "Gopalakrishnan Deshpande Centre (GDC)"</td><td class=xl24 width=64 >5000000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >5000000</td><td class=xl24 width=64 >998393</td><td class=xl24 width=64 >The Gopalakrishnan Deshpande Centre</td><td class=xl24 width=64 >Office of International & Alumni Relations Room No 25, 2nd Floor, IC&SR Building IIT Madras</td><td class=xl24 width=64 >Chennai</td><td class=xl24 width=64 >600036</td><td class=xl24 width=64 >TamilNadu</td><td class=xl24 width=64 >33</td><td class=xl24 width=64 >33EXEMPTICSR011</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td></tr><tr><td class=xl24 width=64 >4</td><td class=xl24 width=64 >11-01-2018</td><td class=xl24 width=64 >C17188117C1216</td><td class=xl24 width=64 >IC1718OEC044PETRSASA</td><td class=xl24 width=64 >SANNASIRAJ S A</td><td class=xl24 width=64 >Ocean Engineering</td><td class=xl24 width=64 >Towards payment for the project titled "Shore protection works at Puthuypeen coast, Cochin for Petronet LNG"</td><td class=xl24 width=64 >200000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >200000</td><td class=xl24 width=64 >998393</td><td class=xl24 width=64 >Petronet LNG Limited</td><td class=xl24 width=64 >Kochi LNG Terminal, Puthyvypeen Special Economic Zone, Survey No.347, Puthuvypu</td><td class=xl24 width=64 >Kochi</td><td class=xl24 width=64 >682508</td><td class=xl24 width=64 >Kerala</td><td class=xl24 width=64 >32</td><td class=xl24 width=64 >32AAACP8148D1ZP</td><td class=xl24 width=64 >AAACP8148D</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 >info.gst@petronetlng.com</td><td class=xl24 width=64 >0484-2502268</td></tr><tr><td class=xl24 width=64 >5</td><td class=xl24 width=64 >19-01-2018</td><td class=xl24 width=64 >C17182399C1283</td><td class=xl24 width=64 >CR1718ELE003SAIEDEVE</td><td class=xl24 width=64 >DEVENDRA JALIHAL</td><td class=xl24 width=64 >Electrical Engineering</td><td class=xl24 width=64 >First Installment of grant for implementation of Solar DC Inverterless System in homes and school as per agreement dated 5-Jan-2018</td><td class=xl24 width=64 >3000000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >3000000</td><td class=xl24 width=64 >998393</td><td class=xl24 width=64 >SAIPEM INDIA PROJECTS PRIVATE LIMITED</td><td class=xl24 width=64 >Yarlagadda Towers, Nungambakkam</td><td class=xl24 width=64 >Chennai</td><td class=xl24 width=64 >600034</td><td class=xl24 width=64 >TamilNadu</td><td class=xl24 width=64 >33</td><td class=xl24 width=64 >33AAACI7915F1ZT</td><td class=xl24 width=64 >AAACI7915F</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td></tr><tr><td class=xl24 width=64 >6</td><td class=xl24 width=64 >24-01-2018</td><td class=xl24 width=64 >C17188129C1322</td><td class=xl24 width=64 >IC1718CHE003LNTESRAT</td><td class=xl24 width=64 >RAMANATHAN S</td><td class=xl24 width=64 >Chemical Engineering</td><td class=xl24 width=64 >Compatibility test and recommendations based on results</td><td class=xl24 width=64 >153432</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >153432</td><td class=xl24 width=64 >998393</td><td class=xl24 width=64 >L&T TECHNOLOGY SERVICES LIMITED</td><td class=xl24 width=64 >2nd, 3rd Floor,1/124,DLF IT SEZ Park, Unit 1, Block 3,Mt. Poonamallee Road, Shivaji gardens,Moonlight Stop,Manapakkam</td><td class=xl24 width=64 >CHENNAI</td><td class=xl24 width=64 >600089</td><td class=xl24 width=64 >TamilNadu</td><td class=xl24 width=64 >33</td><td class=xl24 width=64 >33AACCL4310P1ZK</td><td class=xl24 width=64 >AACCL4310P</td><td class=xl24 width=64 > </td><td class=xl24 width=64 >Mohan Keerthivasan</td><td class=xl24 width=64 >mohankeerthivasan@lnttechservices.com</td><td class=xl24 width=64 >044-6630 1003</td></tr><tr><td class=xl24 width=64 >7</td><td class=xl24 width=64 >30-01-2018</td><td class=xl24 width=64 >C17185030C1395</td><td class=xl24 width=64 >CR1718ELE004EAMRKSHA</td><td class=xl24 width=64 >SHANTHI SWARUP K</td><td class=xl24 width=64 >Electrical Engineering</td><td class=xl24 width=64 >Payment for the project titled "Study of O load tap changers(OLTC) in power transmission networks"</td><td class=xl24 width=64 >400000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >400000</td><td class=xl24 width=64 >998393</td><td class=xl24 width=64 >Easun-MR Tap Changers (P) Ltd</td><td class=xl24 width=64 >No.612, C.T.H.Road, Thiruvanmiyur</td><td class=xl24 width=64 >CHENNAI</td><td class=xl24 width=64 >602024</td><td class=xl24 width=64 >TamilNadu</td><td class=xl24 width=64 >33</td><td class=xl24 width=64 >33AAACE1681L1ZP</td><td class=xl24 width=64 >AAACE1681L</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td></tr><tr><td class=xl24 width=64 >8</td><td class=xl24 width=64 >30-01-2018</td><td class=xl24 width=64 >C17188028C1404</td><td class=xl24 width=64 >ET1516BIO002AAAAGUHA</td><td class=xl24 width=64 >GUHAN JAYARAMAN</td><td class=xl24 width=64 >Biotechnology</td><td class=xl24 width=64 >Description should be "Charges for the usage of IITM Bioincubator facilities in IITM-RP for the month of January, February, March, April, May, June, July, August, September, October and November 2018"</td><td class=xl24 width=64 >201600</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >201600</td><td class=xl24 width=64 >999799</td><td class=xl24 width=64 >Yaathum Biotech Pvt ltd</td><td class=xl24 width=64 >IITM Bioincubator, Taramani</td><td class=xl24 width=64 >Chennai</td><td class=xl24 width=64 >600113</td><td class=xl24 width=64 >TamilNadu</td><td class=xl24 width=64 >33</td><td class=xl24 width=64 >33EXEMPTICSR008</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td></tr><tr><td class=xl24 width=64 >9</td><td class=xl24 width=64 >30-01-2018</td><td class=xl24 width=64 >C17188028C1405</td><td class=xl24 width=64 >ET1516BIO002AAAAGUHA</td><td class=xl24 width=64 >GUHAN JAYARAMAN</td><td class=xl24 width=64 >Biotechnology</td><td class=xl24 width=64 >Description should be "Charges for the usage of IITM Bioincubator facilities in IITM-RP for the month of May, June, July, August, and September 2018"</td><td class=xl24 width=64 >49200</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >49200</td><td class=xl24 width=64 >999799</td><td class=xl24 width=64 >Purius Nanosystems pvt ltd</td><td class=xl24 width=64 >IITM Bioincubator, Taramani</td><td class=xl24 width=64 >Chennai</td><td class=xl24 width=64 >600113</td><td class=xl24 width=64 >TamilNadu</td><td class=xl24 width=64 >33</td><td class=xl24 width=64 >33EXEMPTICSR009</td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td><td class=xl24 width=64 > </td></tr>
